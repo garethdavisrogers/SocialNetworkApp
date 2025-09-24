@@ -1,6 +1,10 @@
-﻿namespace SocialNetworkApp.Data
+﻿using Npgsql;
+
+namespace SocialNetworkApp.Data
 {
     public class AppDbContext
     {
+        
+
     }
 }
